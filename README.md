@@ -47,11 +47,11 @@ The game works in the following way:
 - The player starts the game and given a screen where a letter is entered
 - the entry is a single alphebtical letter, multiple letters or non-alphabetical characters are not allowed.
 - The computer then checks if the letter matched any of the characters of the word and informs the user if the entered letter is part of the word or not.
-- Player is allowed ten wrong letter enteries to guess the word.
+- Player is allowed 5 wrong letter enteries to guess the word.
 
 ### File structure
 
-The game is a single file, milestone_4.py.
+The game is a single file, milestone_5.py.
 
 ### License information
 
